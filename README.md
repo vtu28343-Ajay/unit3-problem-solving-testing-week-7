@@ -4,6 +4,7 @@
 ## Design
 |  |
 | ------- |
+| [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1603-design-parking-system) |
+## Hash Table
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
+## String
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
