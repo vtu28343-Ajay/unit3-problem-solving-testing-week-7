@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
