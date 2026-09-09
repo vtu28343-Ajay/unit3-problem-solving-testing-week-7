@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
@@ -39,6 +40,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
