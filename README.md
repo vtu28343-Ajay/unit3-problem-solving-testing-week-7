@@ -37,6 +37,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
