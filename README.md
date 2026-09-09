@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0876-middle-of-the-linked-list) |
@@ -74,5 +75,6 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
