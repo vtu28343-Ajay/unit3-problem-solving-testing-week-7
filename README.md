@@ -54,6 +54,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
@@ -71,6 +72,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -80,6 +82,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -107,6 +110,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
