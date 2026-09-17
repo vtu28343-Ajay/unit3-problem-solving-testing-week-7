@@ -25,6 +25,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
 ## String
@@ -80,6 +81,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
@@ -91,6 +93,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
 ## Two Pointers
 |  |
@@ -120,6 +123,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,4 +170,5 @@
 | ------- |
 | [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
