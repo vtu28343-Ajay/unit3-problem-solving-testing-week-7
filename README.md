@@ -36,6 +36,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -135,6 +136,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Quickselect
 |  |
 | ------- |
