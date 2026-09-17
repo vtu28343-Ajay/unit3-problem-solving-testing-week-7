@@ -16,12 +16,14 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -121,16 +124,24 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
