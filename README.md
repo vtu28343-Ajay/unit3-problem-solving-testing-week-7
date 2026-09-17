@@ -71,6 +71,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -78,6 +79,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -103,6 +105,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
