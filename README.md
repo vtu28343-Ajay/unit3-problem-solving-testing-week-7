@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [1472-design-browser-history](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1472-design-browser-history) |
 ## Linked List
@@ -116,4 +117,20 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
