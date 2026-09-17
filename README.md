@@ -66,10 +66,12 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
 ## Two Pointers
 |  |
@@ -89,4 +91,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0142-linked-list-cycle-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
