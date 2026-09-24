@@ -102,6 +102,7 @@
 | [0113-path-sum-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -192,6 +193,7 @@
 | [0100-same-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0841-keys-and-rooms) |
@@ -211,6 +213,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0841-keys-and-rooms) |
@@ -223,5 +226,10 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
