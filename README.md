@@ -40,6 +40,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0695-max-area-of-island](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0705-design-hashset) |
 | [0994-rotting-oranges](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0997-find-the-town-judge) |
@@ -109,6 +110,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
@@ -196,6 +198,7 @@
 | [0207-course-schedule](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0994-rotting-oranges) |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -222,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
