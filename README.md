@@ -105,6 +105,7 @@
 | [0257-binary-tree-paths](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1600-throne-inheritance) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,9 +187,18 @@
 | [0101-symmetric-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0112-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/0257-binary-tree-paths) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu28343-Ajay/unit3-problem-solving-testing-week-7/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
